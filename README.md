@@ -154,6 +154,13 @@ bettycoder = {
 
 ---
 
+## ⏱️ Coding & Lab Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
