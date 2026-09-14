@@ -171,13 +171,7 @@ INI        4 mins                █░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
----
-
-## 📊 GitHub Activity
-
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bettyc0der&hide_border=false&background=F3E3BE&border=5F735B&stroke=435844&ring=D8B35C&fire=C45A3D&currStreakNum=2B2118&sideNums=2B2118&currStreakLabel=435844&sideLabels=435844&dates=5F735B)](https://git.io/streak-stats)
 
 ![GitHub Followers](https://img.shields.io/github/followers/bettyc0der?style=for-the-badge&label=FOLLOWERS&labelColor=2B2118&color=435844&logo=github&logoColor=F3E3BE)
 ![Profile Views](https://komarev.com/ghpvc/?username=bettyc0der&color=435844&style=for-the-badge&label=PROFILE+VIEWS)
