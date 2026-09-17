@@ -159,14 +159,16 @@ bettycoder = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
-Total Time: 23 mins
+Total Time: 1 hr 18 mins
 
-Other      3 hrs                 ██████████████████████░░░   88.59 %
-Python     12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-Markdown   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-INI        4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Other      3 hrs                 █████████████████▒░░░░░░░   69.79 %
+Python     35 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+HTML       25 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+JSON       6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Markdown   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+INI        4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
