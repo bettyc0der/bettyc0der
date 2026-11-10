@@ -1,6 +1,6 @@
 <div align="center">
 
-![BettyCoder animated cybersecurity banner](assets/Untitled%20-%20September%2005%2C%202026%20at%2017.10.50%20(1).gif)
+![BettyCoder animated cybersecurity banner](assets/download.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=435844&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+BettyCoder+%F0%9F%91%8B;CySA%2B+Certified+Cybersecurity+Analyst;Cybersecurity+%7C+SOC+%7C+Investigation;Code+Secure.+Stay+Curious.)](https://git.io/typing-svg)
 
